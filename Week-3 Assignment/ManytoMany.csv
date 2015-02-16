@@ -1,0 +1,5 @@
+"orderid";"customerid";"orderamount";"orderid";"productid";"productid";"productname"
+"1  ";"99 ";1000.00;"1  ";"XX ";"XX ";"XXXXXXXXX           "
+"1  ";"99 ";1000.00;"1  ";"YY ";"YY ";"YYYYYYYYYY          "
+"2  ";"100";2000.00;"2  ";"XX ";"XX ";"XXXXXXXXX           "
+"3  ";"99 ";1000.00;"3  ";"YY ";"YY ";"YYYYYYYYYY          "
